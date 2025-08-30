@@ -1,0 +1,14 @@
+# Archivos de compilación de PyInstaller
+/dist/
+/build/
+*.spec
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de IDEs
+.idea/
+.vscode/
